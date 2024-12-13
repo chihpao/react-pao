@@ -1,6 +1,6 @@
 const Hero = ({
-  title='李孜孜是小豬豬',
-  subtitle= '會在這裡分享一些小豬豬的心得與技術',
+  title='2024',
+  subtitle= 'React crush',
 }) => {
   return (
     <div>
